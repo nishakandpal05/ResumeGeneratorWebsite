@@ -1,5 +1,21 @@
 body{
     background-color: rgb(175, 189, 196);
 }
+/*#resume-form{
+    display : none;
+}*/
+
+#resume-template{
+    display : none;
+}
+
+.myimage{
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background{
+    background-color: aqua;
+}
 
 
